@@ -1,0 +1,1 @@
+export default function LifeRPG() { return <div>Life RPG Component</div>; }
